@@ -24,7 +24,7 @@ This activity gives associates time to practice using semi-structured querying i
     -	COPY data from the staged file into your created table
     -	Query the data to find answers to a series of questions. The queries should be aimed at using columns that contain this semi-structured data
 2. Here's an example of an activity:
-    -	movies.xml
+    -	[movies.xml](../resources/movies.xml)
     -	1) Stage movies.xml into Snowflake
     -	2) Create VW/Schema
     -   3) Create a simple table with an ID column (primary key) and a 'movie' column
