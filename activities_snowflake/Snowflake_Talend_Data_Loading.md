@@ -2,7 +2,7 @@
 <br />
 <br />
 
-## Time
+## Time 
 - 2 hours
 
 ### Description
@@ -25,7 +25,7 @@ This activity gives associates time to practice creating a pipeline from data in
     -	Load datainto Snowflake table
     -	Query the data to find answers to a series of questions. The queries should be aimed at using columns that contain this semi-structured data
 2. Here's an example of an activity:
-    -	[pokemon_1.csv](../resources/pokemon_1.csv), [pokemon_234.csv](../resources/pokemon_234.csv), [pokemon_56.csv](../resources/pokemon_56.csv) 
+    -	[pokemon_1.csv](../resources_snowflake/pokemon_1.csv), [pokemon_234.csv](../resources_snowflake/pokemon_234.csv), [pokemon_56.csv](../resources_snowflake/pokemon_56.csv) 
     -	1) Read data from csv files into Talend
     -	2) Create a connection to Snowflake in Talend
     -   3) Combine and load data into a Snowflake table

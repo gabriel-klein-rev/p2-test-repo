@@ -5,7 +5,7 @@
 ## Time
 - 2 hours
 
-### Description
+### Description 
 This activity gives associates time to practice loading data into snowflake. 
 <br />
 <br />
@@ -24,7 +24,7 @@ This activity gives associates time to practice loading data into snowflake.
     -	COPY data from the staged file into your created table
     -	Query the data to find answers to a series of questions
 2. Here's specific data you can use and questions to answer from it:
-    -	[pokemon.csv](../resources/pokemon.csv)
+    -	[pokemon.csv](../resources_snowflake/pokemon.csv)
     -	1) Which generation of pokemon has the highest average attack? Highest HP?
     -	2) List all of the Legendary pokemon in order of Sp. Attack
     -	3) List all of the pokemon that are both Grass type and Flying type.
